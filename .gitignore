@@ -1,0 +1,11 @@
+# macOS Files
+.DS_Store
+
+# Directories
+node_modules/
+config/config.js
+# logs
+logs/
+*.log
+
+# 
